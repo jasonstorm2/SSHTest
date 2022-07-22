@@ -25,7 +25,7 @@ public class Connect {
 
 
     public void connectMysql(String databaseName){
-        String DB_URL = "jdbc:mysql://172.17.16.4:3306/"+databaseName+"?rewriteBatchedStatements=true&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8&failOverReadOnly=false&serverTimezone=UTC";
+        String DB_URL = "jdbc:mysql://172.17.16.4:3306/chatLog?characterEncoding=utf-8&useSSL=false&rewriteBatchedStatements=true&allowMultiQueries=true";
 
         Connection conn = null;
         try{
@@ -79,15 +79,16 @@ public class Connect {
             Statement stmt = null;
             stmt = conn.createStatement();
             com.mysql.cj.jdbc.DatabaseMetaData data = (DatabaseMetaData) conn.getMetaData();
-            System.out.println("活跃statements1:"+data.getMaxStatements());
+            System.out.println("statements1:"+data.getMaxStatements());
             String sql;
             sql = "select SCHEMA_NAME as baseName from information_schema.schemata";
             ResultSet rs = stmt.executeQuery(sql);
             com.mysql.cj.jdbc.DatabaseMetaData data2 = (DatabaseMetaData) conn.getMetaData();
-            System.out.println("活跃statements2:"+data2.getMaxStatements());
+            System.out.println("statements2:"+data2.getMaxStatements());
             // 展开结果集数据库
             while (rs.next()) {
                 String baseName = rs.getString("baseName");
+                System.out.println("baseName:"+baseName);
                 String[] nameArr = baseName.split("_");
                 if(!nameArr[0].equals("game")){
                     continue;

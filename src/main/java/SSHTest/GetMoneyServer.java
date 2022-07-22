@@ -49,7 +49,7 @@ public class GetMoneyServer {
 //        for (String ip : ips) {
 //            SSHService.getInstance().sshRun(ip);
 //        }
-        SSHService.getInstance().sshRun("172.17.16.3");
+        SSHService.getInstance().sshRun("172.17.16.16");
 
 
     }
