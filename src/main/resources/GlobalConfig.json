@@ -1,0 +1,4437 @@
+{
+	"1": {
+		"intVal": 0,
+		"intArrVal": [
+			100,
+			100,
+			100,
+			200,
+			200,
+			200,
+			300,
+			300,
+			300,
+			400,
+			400,
+			400,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500,
+			500
+		],
+		"floatVal": 0.0,
+		"id": 1,
+		"boolVal": false
+	},
+	"2": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 2,
+		"boolVal": false
+	},
+	"3": {
+		"intVal": 300,
+		"floatVal": 0.0,
+		"id": 3,
+		"boolVal": false
+	},
+	"4": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 4,
+		"boolVal": false
+	},
+	"5": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 5,
+		"boolVal": false
+	},
+	"6": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 6,
+		"boolVal": false
+	},
+	"7": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 7,
+		"boolVal": false
+	},
+	"8": {
+		"intVal": 500,
+		"floatVal": 0.0,
+		"id": 8,
+		"boolVal": false
+	},
+	"9": {
+		"intVal": 500,
+		"floatVal": 0.0,
+		"id": 9,
+		"boolVal": false
+	},
+	"400": {
+		"intVal": 0,
+		"intArrVal": [
+			2,
+			4
+		],
+		"floatVal": 0.0,
+		"id": 400,
+		"boolVal": false
+	},
+	"401": {
+		"intVal": 30,
+		"floatVal": 0.0,
+		"id": 401,
+		"boolVal": false
+	},
+	"402": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 402,
+		"boolVal": false
+	},
+	"403": {
+		"intVal": 0,
+		"intArrVal": [
+			5,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 403,
+		"boolVal": false
+	},
+	"404": {
+		"intVal": 0,
+		"intArrVal": [
+			20,
+			20,
+			20,
+			30,
+			30,
+			40,
+			40,
+			50,
+			50,
+			60,
+			60,
+			70,
+			70,
+			80,
+			80,
+			90,
+			100
+		],
+		"floatVal": 0.0,
+		"id": 404,
+		"boolVal": false
+	},
+	"405": {
+		"intVal": 0,
+		"intArrVal": [
+			1024,
+			250
+		],
+		"floatVal": 0.0,
+		"id": 405,
+		"boolVal": false
+	},
+	"406": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				2001,
+				1,
+				1
+			],
+			[
+				152002,
+				10,
+				1
+			],
+			[
+				1,
+				100,
+				1
+			]
+		],
+		"floatVal": 0.0,
+		"id": 406,
+		"boolVal": false
+	},
+	"407": {
+		"intVal": 1010620,
+		"floatVal": 0.0,
+		"id": 407,
+		"boolVal": false
+	},
+	"408": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 408,
+		"boolVal": false
+	},
+	"409": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 409,
+		"boolVal": false
+	},
+	"410": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 410,
+		"boolVal": false
+	},
+	"411": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1167,
+				20
+			],
+			[
+				1168,
+				60
+			],
+			[
+				1169,
+				240
+			]
+		],
+		"floatVal": 0.0,
+		"id": 411,
+		"boolVal": false
+	},
+	"412": {
+		"intVal": 0,
+		"intArrVal": [
+			5,
+			5
+		],
+		"floatVal": 0.0,
+		"id": 412,
+		"boolVal": false
+	},
+	"413": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 413,
+		"boolVal": false
+	},
+	"414": {
+		"intVal": 0,
+		"intArrVal": [
+			60573,
+			60574,
+			60575,
+			60576,
+			60577,
+			60578
+		],
+		"floatVal": 0.0,
+		"id": 414,
+		"boolVal": false
+	},
+	"415": {
+		"intVal": 0,
+		"intArrVal": [
+			60567,
+			60568,
+			60569,
+			60570,
+			60571,
+			60572
+		],
+		"floatVal": 0.0,
+		"id": 415,
+		"boolVal": false
+	},
+	"416": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1164,
+				10
+			],
+			[
+				1165,
+				20
+			],
+			[
+				1166,
+				25
+			]
+		],
+		"floatVal": 0.0,
+		"id": 416,
+		"boolVal": false
+	},
+	"417": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 417,
+		"boolVal": false
+	},
+	"418": {
+		"intVal": 150,
+		"floatVal": 0.0,
+		"id": 418,
+		"boolVal": false
+	},
+	"419": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"floatVal": 0.0,
+		"id": 419,
+		"boolVal": false
+	},
+	"420": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 420,
+		"boolVal": false
+	},
+	"300": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 300,
+		"boolVal": false
+	},
+	"421": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 421,
+		"boolVal": false
+	},
+	"301": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 301,
+		"boolVal": false
+	},
+	"422": {
+		"intVal": 0,
+		"intArrVal": [
+			200301,
+			200501,
+			200401,
+			300645,
+			100304,
+			200102
+		],
+		"floatVal": 0.0,
+		"id": 422,
+		"boolVal": false
+	},
+	"302": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 302,
+		"boolVal": false
+	},
+	"423": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				100
+			],
+			[
+				2,
+				200
+			],
+			[
+				3,
+				300
+			]
+		],
+		"floatVal": 0.0,
+		"id": 423,
+		"boolVal": false
+	},
+	"303": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 303,
+		"boolVal": false
+	},
+	"424": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 424,
+		"boolVal": false
+	},
+	"304": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				999
+			],
+			[
+				2,
+				999
+			],
+			[
+				3,
+				999
+			]
+		],
+		"floatVal": 0.0,
+		"id": 304,
+		"boolVal": false
+	},
+	"425": {
+		"intVal": 0,
+		"intArrVal": [
+			1222,
+			1000,
+			7099,
+			7100,
+			7102
+		],
+		"floatVal": 0.0,
+		"id": 425,
+		"boolVal": false
+	},
+	"305": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 305,
+		"boolVal": false
+	},
+	"426": {
+		"intVal": 0,
+		"intArrVal": [
+			100,
+			7078,
+			7079,
+			7080
+		],
+		"floatVal": 0.0,
+		"id": 426,
+		"boolVal": false
+	},
+	"306": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 306,
+		"boolVal": false
+	},
+	"427": {
+		"intVal": 1600005,
+		"floatVal": 0.0,
+		"id": 427,
+		"boolVal": false
+	},
+	"307": {
+		"intVal": 1151,
+		"floatVal": 0.0,
+		"id": 307,
+		"boolVal": false
+	},
+	"428": {
+		"intVal": 2000,
+		"floatVal": 0.0,
+		"id": 428,
+		"boolVal": false
+	},
+	"308": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 308,
+		"boolVal": false
+	},
+	"429": {
+		"intVal": 1000,
+		"floatVal": 0.0,
+		"id": 429,
+		"boolVal": false
+	},
+	"309": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 309,
+		"boolVal": false
+	},
+	"310": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 310,
+		"boolVal": false
+	},
+	"311": {
+		"intVal": 0,
+		"intArrVal": [
+			20,
+			40,
+			60,
+			80,
+			100
+		],
+		"floatVal": 0.0,
+		"id": 311,
+		"boolVal": false
+	},
+	"312": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 312,
+		"boolVal": false
+	},
+	"313": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 313,
+		"boolVal": false
+	},
+	"314": {
+		"intVal": 0,
+		"intArrVal": [
+			4,
+			4,
+			5
+		],
+		"floatVal": 0.0,
+		"id": 314,
+		"boolVal": false
+	},
+	"315": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 315,
+		"boolVal": false
+	},
+	"316": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 316,
+		"boolVal": false
+	},
+	"317": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 317,
+		"boolVal": false
+	},
+	"318": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 318,
+		"boolVal": false
+	},
+	"319": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 319,
+		"boolVal": false
+	},
+	"320": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1
+			],
+			[
+				40,
+				2
+			],
+			[
+				80,
+				3
+			],
+			[
+				120
+			]
+		],
+		"floatVal": 0.0,
+		"id": 320,
+		"boolVal": false
+	},
+	"200": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				5,
+				999,
+				1
+			]
+		],
+		"floatVal": 0.0,
+		"id": 200,
+		"boolVal": false
+	},
+	"321": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			100
+		],
+		"floatVal": 0.0,
+		"id": 321,
+		"boolVal": false
+	},
+	"201": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1000,
+				200501
+			],
+			[
+				1101,
+				200102
+			],
+			[
+				1201,
+				200102
+			],
+			[
+				1301,
+				200501
+			],
+			[
+				2101,
+				200201
+			],
+			[
+				2102,
+				200201
+			],
+			[
+				2103,
+				200201
+			],
+			[
+				2104,
+				200201
+			],
+			[
+				2105,
+				200201
+			],
+			[
+				3000,
+				300502
+			],
+			[
+				3100,
+				300502
+			],
+			[
+				4000,
+				200501
+			],
+			[
+				5101,
+				100701
+			],
+			[
+				5102,
+				100701
+			],
+			[
+				6000,
+				100901
+			],
+			[
+				7000,
+				200501
+			]
+		],
+		"floatVal": 0.0,
+		"id": 201,
+		"boolVal": false
+	},
+	"322": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				0
+			],
+			[
+				2,
+				24
+			],
+			[
+				3,
+				48
+			]
+		],
+		"floatVal": 0.0,
+		"id": 322,
+		"boolVal": false
+	},
+	"202": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 202,
+		"boolVal": false
+	},
+	"323": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 323,
+		"boolVal": false
+	},
+	"203": {
+		"intVal": 1300001,
+		"floatVal": 0.0,
+		"id": 203,
+		"boolVal": false
+	},
+	"324": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			200
+		],
+		"floatVal": 0.0,
+		"id": 324,
+		"boolVal": false
+	},
+	"204": {
+		"intVal": 0,
+		"intArrVal": [
+			0,
+			3600,
+			10800,
+			18000
+		],
+		"floatVal": 0.0,
+		"id": 204,
+		"boolVal": false
+	},
+	"325": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 325,
+		"boolVal": false
+	},
+	"205": {
+		"intVal": 0,
+		"strVal": "单体01横排02列排03全体04自身05己方06被动07随机08后排08竖排03十字08",
+		"floatVal": 0.0,
+		"id": 205,
+		"boolVal": false
+	},
+	"326": {
+		"intVal": 21,
+		"floatVal": 0.0,
+		"id": 326,
+		"boolVal": false
+	},
+	"206": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				3,
+				1,
+				3
+			],
+			[
+				4,
+				10
+			],
+			[
+				5,
+				12
+			],
+			[
+				6,
+				4,
+				7
+			],
+			[
+				7,
+				6,
+				9,
+				11
+			],
+			[
+				8,
+				2,
+				5,
+				8
+			]
+		],
+		"floatVal": 0.0,
+		"id": 206,
+		"boolVal": false
+	},
+	"327": {
+		"intVal": 7000,
+		"floatVal": 0.0,
+		"id": 327,
+		"boolVal": false
+	},
+	"207": {
+		"intVal": 80,
+		"floatVal": 0.0,
+		"id": 207,
+		"boolVal": false
+	},
+	"328": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 328,
+		"boolVal": false
+	},
+	"208": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				31,
+				10
+			],
+			[
+				41,
+				20
+			],
+			[
+				51,
+				30
+			],
+			[
+				61,
+				40
+			],
+			[
+				71,
+				50
+			],
+			[
+				81,
+				60
+			],
+			[
+				91,
+				70
+			],
+			[
+				101,
+				80
+			],
+			[
+				111,
+				90
+			],
+			[
+				121,
+				100
+			],
+			[
+				131,
+				110
+			],
+			[
+				141,
+				120
+			],
+			[
+				151,
+				130
+			],
+			[
+				161,
+				140
+			],
+			[
+				171,
+				150
+			],
+			[
+				181,
+				160
+			],
+			[
+				191,
+				170
+			],
+			[
+				201,
+				180
+			],
+			[
+				211,
+				190
+			],
+			[
+				221,
+				200
+			],
+			[
+				231,
+				210
+			],
+			[
+				241,
+				220
+			],
+			[
+				251,
+				230
+			],
+			[
+				261,
+				240
+			],
+			[
+				271,
+				250
+			],
+			[
+				281,
+				260
+			],
+			[
+				291,
+				270
+			],
+			[
+				301,
+				280
+			],
+			[
+				311,
+				290
+			],
+			[
+				321,
+				300
+			],
+			[
+				331,
+				310
+			],
+			[
+				341,
+				320
+			],
+			[
+				351,
+				330
+			],
+			[
+				361,
+				340
+			],
+			[
+				371,
+				350
+			],
+			[
+				381,
+				360
+			],
+			[
+				391,
+				370
+			],
+			[
+				401,
+				380
+			],
+			[
+				411,
+				390
+			]
+		],
+		"floatVal": 0.0,
+		"id": 208,
+		"boolVal": false
+	},
+	"329": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			200
+		],
+		"floatVal": 0.0,
+		"id": 329,
+		"boolVal": false
+	},
+	"209": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				721,
+				67
+			],
+			[
+				2,
+				575,
+				96
+			],
+			[
+				3,
+				574,
+				93
+			],
+			[
+				4,
+				575,
+				96
+			],
+			[
+				5,
+				718,
+				99
+			],
+			[
+				6,
+				616,
+				93
+			],
+			[
+				7,
+				575,
+				96
+			],
+			[
+				8,
+				572,
+				95
+			],
+			[
+				9,
+				572,
+				95
+			],
+			[
+				12,
+				721,
+				67
+			],
+			[
+				13,
+				575,
+				96
+			],
+			[
+				14,
+				574,
+				93
+			],
+			[
+				15,
+				575,
+				96
+			],
+			[
+				16,
+				718,
+				99
+			],
+			[
+				17,
+				616,
+				93
+			],
+			[
+				18,
+				575,
+				96
+			],
+			[
+				19,
+				572,
+				95
+			],
+			[
+				20,
+				572,
+				95
+			],
+			[
+				23,
+				721,
+				67
+			],
+			[
+				24,
+				575,
+				96
+			],
+			[
+				25,
+				574,
+				93
+			],
+			[
+				26,
+				575,
+				96
+			],
+			[
+				27,
+				718,
+				99
+			],
+			[
+				28,
+				616,
+				93
+			],
+			[
+				29,
+				575,
+				96
+			],
+			[
+				30,
+				572,
+				95
+			],
+			[
+				31,
+				572,
+				95
+			]
+		],
+		"floatVal": 0.0,
+		"id": 209,
+		"boolVal": false
+	},
+	"330": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 330,
+		"boolVal": false
+	},
+	"210": {
+		"intVal": 0,
+		"intArrVal": [
+			10001,
+			10004,
+			10007
+		],
+		"floatVal": 0.0,
+		"id": 210,
+		"boolVal": false
+	},
+	"331": {
+		"intVal": 0,
+		"floatVal": 1.0,
+		"id": 331,
+		"boolVal": false
+	},
+	"211": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 211,
+		"boolVal": false
+	},
+	"332": {
+		"intVal": 0,
+		"floatVal": 1.0,
+		"id": 332,
+		"boolVal": false
+	},
+	"212": {
+		"intVal": 8,
+		"floatVal": 0.0,
+		"id": 212,
+		"boolVal": false
+	},
+	"333": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 333,
+		"boolVal": false
+	},
+	"213": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 213,
+		"boolVal": false
+	},
+	"334": {
+		"intVal": 4000,
+		"floatVal": 0.0,
+		"id": 334,
+		"boolVal": false
+	},
+	"214": {
+		"intVal": 0,
+		"intArrVal": [
+			200,
+			250,
+			300,
+			350,
+			400,
+			450,
+			500,
+			600,
+			700,
+			800,
+			900,
+			1000
+		],
+		"floatVal": 0.0,
+		"id": 214,
+		"boolVal": false
+	},
+	"335": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 335,
+		"boolVal": false
+	},
+	"215": {
+		"intVal": 0,
+		"intArrVal": [
+			100,
+			150,
+			200,
+			250,
+			300,
+			350,
+			400,
+			450,
+			500
+		],
+		"floatVal": 0.0,
+		"id": 215,
+		"boolVal": false
+	},
+	"336": {
+		"intVal": 999,
+		"floatVal": 0.0,
+		"id": 336,
+		"boolVal": false
+	},
+	"216": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 216,
+		"boolVal": false
+	},
+	"337": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				4101,
+				5
+			],
+			[
+				4102,
+				5
+			],
+			[
+				4103,
+				5
+			],
+			[
+				4104,
+				5
+			],
+			[
+				4105,
+				5
+			],
+			[
+				4106,
+				5
+			],
+			[
+				4107,
+				5
+			],
+			[
+				4108,
+				5
+			],
+			[
+				4109,
+				5
+			],
+			[
+				4110,
+				5
+			],
+			[
+				4111,
+				5
+			],
+			[
+				4112,
+				5
+			],
+			[
+				4113,
+				5
+			],
+			[
+				4114,
+				5
+			],
+			[
+				4115,
+				5
+			],
+			[
+				4116,
+				5
+			],
+			[
+				4117,
+				5
+			],
+			[
+				4118,
+				5
+			],
+			[
+				4119,
+				5
+			],
+			[
+				4120,
+				50
+			],
+			[
+				4121,
+				50
+			],
+			[
+				4122,
+				50
+			],
+			[
+				4123,
+				50
+			],
+			[
+				4124,
+				50
+			],
+			[
+				4125,
+				50
+			],
+			[
+				4126,
+				50
+			],
+			[
+				4127,
+				50
+			],
+			[
+				4128,
+				50
+			],
+			[
+				4129,
+				50
+			],
+			[
+				4130,
+				50
+			],
+			[
+				4131,
+				50
+			],
+			[
+				4132,
+				50
+			],
+			[
+				4133,
+				50
+			],
+			[
+				4134,
+				50
+			],
+			[
+				4135,
+				50
+			],
+			[
+				4136,
+				50
+			],
+			[
+				4137,
+				50
+			],
+			[
+				4138,
+				50
+			]
+		],
+		"floatVal": 0.0,
+		"id": 337,
+		"boolVal": false
+	},
+	"217": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 217,
+		"boolVal": false
+	},
+	"338": {
+		"intVal": 9999,
+		"floatVal": 0.0,
+		"id": 338,
+		"boolVal": false
+	},
+	"218": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 218,
+		"boolVal": false
+	},
+	"339": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				2,
+				50,
+				15,
+				4139
+			],
+			[
+				3,
+				100,
+				35,
+				4140
+			],
+			[
+				4,
+				300,
+				60,
+				4141
+			],
+			[
+				4,
+				1500,
+				100,
+				4142
+			]
+		],
+		"floatVal": 0.0,
+		"id": 339,
+		"boolVal": false
+	},
+	"219": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 219,
+		"boolVal": false
+	},
+	"340": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 340,
+		"boolVal": false
+	},
+	"220": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 220,
+		"boolVal": false
+	},
+	"341": {
+		"intVal": 60,
+		"floatVal": 0.0,
+		"id": 341,
+		"boolVal": false
+	},
+	"100": {
+		"intVal": 0,
+		"intArrVal": [
+			1141,
+			1142,
+			1143
+		],
+		"floatVal": 0.0,
+		"id": 100,
+		"boolVal": false
+	},
+	"221": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 221,
+		"boolVal": false
+	},
+	"342": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 342,
+		"boolVal": false
+	},
+	"101": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 101,
+		"boolVal": false
+	},
+	"222": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 222,
+		"boolVal": false
+	},
+	"343": {
+		"intVal": 19,
+		"floatVal": 0.0,
+		"id": 343,
+		"boolVal": false
+	},
+	"102": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 102,
+		"boolVal": false
+	},
+	"223": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 223,
+		"boolVal": false
+	},
+	"344": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 344,
+		"boolVal": false
+	},
+	"103": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 103,
+		"boolVal": false
+	},
+	"224": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 224,
+		"boolVal": false
+	},
+	"345": {
+		"intVal": 9,
+		"floatVal": 0.0,
+		"id": 345,
+		"boolVal": false
+	},
+	"104": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 104,
+		"boolVal": false
+	},
+	"225": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 225,
+		"boolVal": false
+	},
+	"346": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 346,
+		"boolVal": false
+	},
+	"105": {
+		"intVal": 80,
+		"floatVal": 0.0,
+		"id": 105,
+		"boolVal": false
+	},
+	"226": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 226,
+		"boolVal": false
+	},
+	"347": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 347,
+		"boolVal": false
+	},
+	"106": {
+		"intVal": 40,
+		"floatVal": 0.0,
+		"id": 106,
+		"boolVal": false
+	},
+	"227": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 227,
+		"boolVal": false
+	},
+	"348": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 348,
+		"boolVal": false
+	},
+	"107": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 107,
+		"boolVal": false
+	},
+	"228": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 228,
+		"boolVal": false
+	},
+	"349": {
+		"intVal": 0,
+		"intArrVal": [
+			1600005,
+			1600080
+		],
+		"floatVal": 0.0,
+		"id": 349,
+		"boolVal": false
+	},
+	"108": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 108,
+		"boolVal": false
+	},
+	"229": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 229,
+		"boolVal": false
+	},
+	"109": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 109,
+		"boolVal": false
+	},
+	"350": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 350,
+		"boolVal": false
+	},
+	"230": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 230,
+		"boolVal": false
+	},
+	"351": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 351,
+		"boolVal": false
+	},
+	"110": {
+		"intVal": 200,
+		"floatVal": 0.0,
+		"id": 110,
+		"boolVal": false
+	},
+	"231": {
+		"intVal": 15,
+		"floatVal": 0.0,
+		"id": 231,
+		"boolVal": false
+	},
+	"352": {
+		"intVal": 4000,
+		"floatVal": 0.0,
+		"id": 352,
+		"boolVal": false
+	},
+	"111": {
+		"intVal": 300,
+		"floatVal": 0.0,
+		"id": 111,
+		"boolVal": false
+	},
+	"232": {
+		"intVal": 180,
+		"floatVal": 0.0,
+		"id": 232,
+		"boolVal": false
+	},
+	"353": {
+		"intVal": 1129,
+		"floatVal": 0.0,
+		"id": 353,
+		"boolVal": false
+	},
+	"112": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 112,
+		"boolVal": false
+	},
+	"233": {
+		"intVal": 12,
+		"floatVal": 0.0,
+		"id": 233,
+		"boolVal": false
+	},
+	"354": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 354,
+		"boolVal": false
+	},
+	"113": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 113,
+		"boolVal": false
+	},
+	"234": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7005
+			],
+			[
+				3
+			]
+		],
+		"floatVal": 0.0,
+		"id": 234,
+		"boolVal": false
+	},
+	"355": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 355,
+		"boolVal": false
+	},
+	"114": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				999
+			],
+			[
+				2,
+				999
+			],
+			[
+				3,
+				999
+			],
+			[
+				4,
+				999
+			],
+			[
+				5,
+				999
+			]
+		],
+		"floatVal": 0.0,
+		"id": 114,
+		"boolVal": false
+	},
+	"235": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7006
+			],
+			[
+				24,
+				90
+			]
+		],
+		"floatVal": 0.0,
+		"id": 235,
+		"boolVal": false
+	},
+	"356": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 356,
+		"boolVal": false
+	},
+	"115": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 115,
+		"boolVal": false
+	},
+	"236": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7007
+			],
+			[
+				5
+			]
+		],
+		"floatVal": 0.0,
+		"id": 236,
+		"boolVal": false
+	},
+	"357": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 357,
+		"boolVal": false
+	},
+	"116": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 116,
+		"boolVal": false
+	},
+	"237": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7008
+			],
+			[
+				999999
+			]
+		],
+		"floatVal": 0.0,
+		"id": 237,
+		"boolVal": false
+	},
+	"358": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			20
+		],
+		"floatVal": 0.0,
+		"id": 358,
+		"boolVal": false
+	},
+	"117": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 117,
+		"boolVal": false
+	},
+	"238": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7012,
+				7013,
+				7014
+			],
+			[
+				72,
+				1
+			]
+		],
+		"floatVal": 0.0,
+		"id": 238,
+		"boolVal": false
+	},
+	"359": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 359,
+		"boolVal": false
+	},
+	"118": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 118,
+		"boolVal": false
+	},
+	"239": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7009
+			]
+		],
+		"floatVal": 0.0,
+		"id": 239,
+		"boolVal": false
+	},
+	"119": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 119,
+		"boolVal": false
+	},
+	"10": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 10,
+		"boolVal": false
+	},
+	"11": {
+		"intVal": -1,
+		"floatVal": 0.0,
+		"id": 11,
+		"boolVal": false
+	},
+	"12": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 12,
+		"boolVal": false
+	},
+	"13": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 13,
+		"boolVal": false
+	},
+	"14": {
+		"intVal": 30,
+		"floatVal": 0.0,
+		"id": 14,
+		"boolVal": false
+	},
+	"15": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 15,
+		"boolVal": false
+	},
+	"16": {
+		"intVal": 150,
+		"floatVal": 0.0,
+		"id": 16,
+		"boolVal": false
+	},
+	"17": {
+		"intVal": 10000,
+		"floatVal": 0.0,
+		"id": 17,
+		"boolVal": false
+	},
+	"18": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 18,
+		"boolVal": false
+	},
+	"19": {
+		"intVal": 15000,
+		"floatVal": 0.0,
+		"id": 19,
+		"boolVal": false
+	},
+	"360": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 360,
+		"boolVal": false
+	},
+	"240": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7017
+			]
+		],
+		"floatVal": 0.0,
+		"id": 240,
+		"boolVal": false
+	},
+	"361": {
+		"intVal": 1300002,
+		"floatVal": 0.0,
+		"id": 361,
+		"boolVal": false
+	},
+	"120": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 120,
+		"boolVal": false
+	},
+	"241": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7018
+			]
+		],
+		"floatVal": 0.0,
+		"id": 241,
+		"boolVal": false
+	},
+	"362": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 362,
+		"boolVal": false
+	},
+	"121": {
+		"intVal": 0,
+		"intArrVal": [
+			10,
+			15,
+			20,
+			30
+		],
+		"floatVal": 0.0,
+		"id": 121,
+		"boolVal": false
+	},
+	"242": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1010404,
+				7021
+			],
+			[
+				1010504,
+				7022
+			],
+			[
+				1010604,
+				7023
+			],
+			[
+				1010704,
+				7024
+			],
+			[
+				1010804,
+				7025
+			],
+			[
+				1010904,
+				7026
+			],
+			[
+				1011004,
+				7027
+			],
+			[
+				1011104,
+				7028
+			],
+			[
+				1011204,
+				7029
+			],
+			[
+				1011304,
+				7030
+			],
+			[
+				1011404,
+				7031
+			],
+			[
+				1011504,
+				7032
+			],
+			[
+				1011604,
+				7033
+			],
+			[
+				1011704,
+				7034
+			],
+			[
+				1011804,
+				7035
+			],
+			[
+				1011904,
+				7036
+			],
+			[
+				1012004,
+				7037
+			],
+			[
+				1012104,
+				7038
+			],
+			[
+				1012204,
+				7039
+			],
+			[
+				1012304,
+				7040
+			],
+			[
+				1012404,
+				7041
+			],
+			[
+				1012504,
+				7042
+			],
+			[
+				1012604,
+				7043
+			],
+			[
+				1012704,
+				7044
+			],
+			[
+				1012804,
+				7045
+			],
+			[
+				1012904,
+				7046
+			],
+			[
+				1013004,
+				7047
+			],
+			[
+				1013104,
+				7048
+			],
+			[
+				1013204,
+				7049
+			],
+			[
+				1013304,
+				7050
+			],
+			[
+				1013404,
+				7051
+			],
+			[
+				1013504,
+				7052
+			],
+			[
+				1013604,
+				7053
+			]
+		],
+		"floatVal": 0.0,
+		"id": 242,
+		"boolVal": false
+	},
+	"363": {
+		"intVal": 1010504,
+		"floatVal": 0.0,
+		"id": 363,
+		"boolVal": false
+	},
+	"122": {
+		"intVal": 0,
+		"intArrVal": [
+			6,
+			12
+		],
+		"floatVal": 0.0,
+		"id": 122,
+		"boolVal": false
+	},
+	"243": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7015
+			],
+			[
+				1,
+				5000000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 243,
+		"boolVal": false
+	},
+	"364": {
+		"intVal": 150,
+		"floatVal": 0.0,
+		"id": 364,
+		"boolVal": false
+	},
+	"123": {
+		"intVal": 0,
+		"intArrVal": [
+			2,
+			3,
+			4,
+			5,
+			7,
+			8
+		],
+		"floatVal": 0.0,
+		"id": 123,
+		"boolVal": false
+	},
+	"244": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7060
+			],
+			[
+				25
+			]
+		],
+		"floatVal": 0.0,
+		"id": 244,
+		"boolVal": false
+	},
+	"365": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 365,
+		"boolVal": false
+	},
+	"124": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			11
+		],
+		"floatVal": 0.0,
+		"id": 124,
+		"boolVal": false
+	},
+	"245": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				7061
+			],
+			[
+				10000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 245,
+		"boolVal": false
+	},
+	"366": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			50
+		],
+		"floatVal": 0.0,
+		"id": 366,
+		"boolVal": false
+	},
+	"125": {
+		"intVal": 0,
+		"intArrVal": [
+			9,
+			10
+		],
+		"floatVal": 0.0,
+		"id": 125,
+		"boolVal": false
+	},
+	"246": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1010101,
+				1011040,
+				1011540
+			]
+		],
+		"floatVal": 0.0,
+		"id": 246,
+		"boolVal": false
+	},
+	"367": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				3,
+				25,
+				1
+			]
+		],
+		"floatVal": 0.0,
+		"id": 367,
+		"boolVal": false
+	},
+	"126": {
+		"intVal": 99,
+		"floatVal": 0.0,
+		"id": 126,
+		"boolVal": false
+	},
+	"247": {
+		"intVal": 0,
+		"intArrVal": [
+			35,
+			7071
+		],
+		"floatVal": 0.0,
+		"id": 247,
+		"boolVal": false
+	},
+	"368": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				3,
+				5,
+				1
+			]
+		],
+		"floatVal": 0.0,
+		"id": 368,
+		"boolVal": false
+	},
+	"127": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 127,
+		"boolVal": false
+	},
+	"248": {
+		"intVal": 0,
+		"intArrVal": [
+			800,
+			7072,
+			7073,
+			7074
+		],
+		"floatVal": 0.0,
+		"id": 248,
+		"boolVal": false
+	},
+	"369": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 369,
+		"boolVal": false
+	},
+	"128": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 128,
+		"boolVal": false
+	},
+	"249": {
+		"intVal": 0,
+		"intArrVal": [
+			15,
+			25,
+			7075,
+			7076,
+			7077
+		],
+		"floatVal": 0.0,
+		"id": 249,
+		"boolVal": false
+	},
+	"129": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 129,
+		"boolVal": false
+	},
+	"20": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 20,
+		"boolVal": false
+	},
+	"21": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 21,
+		"boolVal": false
+	},
+	"22": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 22,
+		"boolVal": false
+	},
+	"23": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 23,
+		"boolVal": false
+	},
+	"24": {
+		"intVal": 360,
+		"floatVal": 0.0,
+		"id": 24,
+		"boolVal": false
+	},
+	"25": {
+		"intVal": 1,
+		"strArrVal": [
+			[
+				17,
+				1500
+			],
+			[
+				18,
+				1500
+			],
+			[
+				19,
+				1500
+			],
+			[
+				20,
+				1500
+			],
+			[
+				21,
+				1500
+			],
+			[
+				22,
+				1500
+			]
+		],
+		"floatVal": 0.0,
+		"id": 25,
+		"boolVal": false
+	},
+	"26": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 26,
+		"boolVal": false
+	},
+	"27": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 27,
+		"boolVal": false
+	},
+	"28": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 28,
+		"boolVal": false
+	},
+	"29": {
+		"intVal": 500,
+		"floatVal": 0.0,
+		"id": 29,
+		"boolVal": false
+	},
+	"370": {
+		"intVal": 800,
+		"floatVal": 0.0,
+		"id": 370,
+		"boolVal": false
+	},
+	"250": {
+		"intVal": 0,
+		"intArrVal": [
+			5,
+			4,
+			7096,
+			7097,
+			7098
+		],
+		"floatVal": 0.0,
+		"id": 250,
+		"boolVal": false
+	},
+	"371": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 371,
+		"boolVal": false
+	},
+	"130": {
+		"intVal": 22,
+		"floatVal": 0.0,
+		"id": 130,
+		"boolVal": false
+	},
+	"251": {
+		"intVal": 0,
+		"intArrVal": [
+			300,
+			7090,
+			7091,
+			7092
+		],
+		"floatVal": 0.0,
+		"id": 251,
+		"boolVal": false
+	},
+	"372": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 372,
+		"boolVal": false
+	},
+	"131": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 131,
+		"boolVal": false
+	},
+	"252": {
+		"intVal": 0,
+		"intArrVal": [
+			1200,
+			50000,
+			7084,
+			7085,
+			7086
+		],
+		"floatVal": 0.0,
+		"id": 252,
+		"boolVal": false
+	},
+	"373": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 373,
+		"boolVal": false
+	},
+	"132": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 132,
+		"boolVal": false
+	},
+	"253": {
+		"intVal": 0,
+		"intArrVal": [
+			1126,
+			1000,
+			7087,
+			7088,
+			7089
+		],
+		"floatVal": 0.0,
+		"id": 253,
+		"boolVal": false
+	},
+	"374": {
+		"intVal": 0,
+		"floatVal": 3.0,
+		"id": 374,
+		"boolVal": false
+	},
+	"133": {
+		"intVal": 0,
+		"intArrVal": [
+			11200,
+			13000
+		],
+		"floatVal": 0.0,
+		"id": 133,
+		"boolVal": false
+	},
+	"254": {
+		"intVal": 0,
+		"intArrVal": [
+			2000,
+			150,
+			7093,
+			7094,
+			7095
+		],
+		"floatVal": 0.0,
+		"id": 254,
+		"boolVal": false
+	},
+	"375": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				2022,
+				5,
+				26
+			],
+			[
+				2022,
+				6,
+				26
+			]
+		],
+		"floatVal": 0.0,
+		"id": 375,
+		"boolVal": false
+	},
+	"134": {
+		"intVal": 0,
+		"intArrVal": [
+			10000,
+			11800
+		],
+		"floatVal": 0.0,
+		"id": 134,
+		"boolVal": false
+	},
+	"255": {
+		"intVal": 0,
+		"intArrVal": [
+			2005,
+			2000,
+			7081,
+			7082,
+			7083
+		],
+		"floatVal": 0.0,
+		"id": 255,
+		"boolVal": false
+	},
+	"376": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 376,
+		"boolVal": false
+	},
+	"135": {
+		"intVal": 0,
+		"intArrVal": [
+			9500,
+			10000
+		],
+		"floatVal": 0.0,
+		"id": 135,
+		"boolVal": false
+	},
+	"256": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				12,
+				1
+			],
+			[
+				18,
+				2
+			],
+			[
+				14,
+				3
+			],
+			[
+				21,
+				4
+			],
+			[
+				15,
+				5
+			],
+			[
+				13,
+				6
+			]
+		],
+		"floatVal": 0.0,
+		"id": 256,
+		"boolVal": false
+	},
+	"377": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 377,
+		"boolVal": false
+	},
+	"136": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 136,
+		"boolVal": false
+	},
+	"257": {
+		"intVal": 1010110,
+		"floatVal": 0.0,
+		"id": 257,
+		"boolVal": false
+	},
+	"378": {
+		"intVal": 99,
+		"floatVal": 0.0,
+		"id": 378,
+		"boolVal": false
+	},
+	"137": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 137,
+		"boolVal": false
+	},
+	"258": {
+		"intVal": 0,
+		"intArrVal": [
+			35
+		],
+		"floatVal": 0.0,
+		"id": 258,
+		"boolVal": false
+	},
+	"379": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 379,
+		"boolVal": false
+	},
+	"138": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 138,
+		"boolVal": false
+	},
+	"259": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 259,
+		"boolVal": false
+	},
+	"139": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 139,
+		"boolVal": false
+	},
+	"30": {
+		"intVal": 25000,
+		"floatVal": 0.0,
+		"id": 30,
+		"boolVal": false
+	},
+	"31": {
+		"intVal": 50000,
+		"floatVal": 0.0,
+		"id": 31,
+		"boolVal": false
+	},
+	"32": {
+		"intVal": 1670,
+		"floatVal": 0.0,
+		"id": 32,
+		"boolVal": false
+	},
+	"33": {
+		"intVal": 80000,
+		"floatVal": 0.0,
+		"id": 33,
+		"boolVal": false
+	},
+	"34": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 34,
+		"boolVal": false
+	},
+	"35": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 35,
+		"boolVal": false
+	},
+	"36": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 36,
+		"boolVal": false
+	},
+	"37": {
+		"intVal": 6,
+		"intArrVal": [
+			1260,
+			1261,
+			1262,
+			1263
+		],
+		"floatVal": 0.0,
+		"id": 37,
+		"boolVal": false
+	},
+	"38": {
+		"intVal": 0,
+		"intArrVal": [
+			1700,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 38,
+		"boolVal": false
+	},
+	"39": {
+		"intVal": 0,
+		"intArrVal": [
+			239,
+			240,
+			241
+		],
+		"floatVal": 0.0,
+		"id": 39,
+		"boolVal": false
+	},
+	"380": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1126,
+				1
+			],
+			[
+				2,
+				10000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 380,
+		"boolVal": false
+	},
+	"260": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 260,
+		"boolVal": false
+	},
+	"381": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				1,
+				50
+			],
+			[
+				2,
+				1,
+				120
+			],
+			[
+				3,
+				1,
+				200
+			],
+			[
+				4,
+				1,
+				350
+			],
+			[
+				5,
+				1,
+				550
+			]
+		],
+		"floatVal": 0.0,
+		"id": 381,
+		"boolVal": false
+	},
+	"140": {
+		"intVal": 300,
+		"floatVal": 0.0,
+		"id": 140,
+		"boolVal": false
+	},
+	"261": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 261,
+		"boolVal": false
+	},
+	"382": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 382,
+		"boolVal": false
+	},
+	"141": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 141,
+		"boolVal": false
+	},
+	"262": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 262,
+		"boolVal": false
+	},
+	"383": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 383,
+		"boolVal": false
+	},
+	"142": {
+		"intVal": 30,
+		"floatVal": 0.0,
+		"id": 142,
+		"boolVal": false
+	},
+	"263": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 263,
+		"boolVal": false
+	},
+	"384": {
+		"intVal": 0,
+		"intArrVal": [
+			1161,
+			50,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 384,
+		"boolVal": false
+	},
+	"143": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 143,
+		"boolVal": false
+	},
+	"264": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 264,
+		"boolVal": false
+	},
+	"385": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				0,
+				3,
+				1,
+				30,
+				1161,
+				50
+			],
+			[
+				4,
+				5,
+				1,
+				60,
+				1161,
+				50
+			]
+		],
+		"floatVal": 0.0,
+		"id": 385,
+		"boolVal": false
+	},
+	"144": {
+		"intVal": 120,
+		"floatVal": 0.0,
+		"id": 144,
+		"boolVal": false
+	},
+	"265": {
+		"intVal": 1010101,
+		"floatVal": 0.0,
+		"id": 265,
+		"boolVal": false
+	},
+	"386": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				0,
+				99,
+				1,
+				50
+			]
+		],
+		"floatVal": 0.0,
+		"id": 386,
+		"boolVal": false
+	},
+	"145": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 145,
+		"boolVal": false
+	},
+	"266": {
+		"intVal": 72,
+		"floatVal": 0.0,
+		"id": 266,
+		"boolVal": false
+	},
+	"387": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 387,
+		"boolVal": false
+	},
+	"146": {
+		"intVal": 0,
+		"intArrVal": [
+			0,
+			20,
+			30,
+			50,
+			50,
+			100,
+			200,
+			200,
+			500,
+			500
+		],
+		"floatVal": 0.0,
+		"id": 146,
+		"boolVal": false
+	},
+	"267": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 267,
+		"boolVal": false
+	},
+	"388": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				1,
+				0
+			],
+			[
+				2,
+				1,
+				100
+			],
+			[
+				3,
+				1,
+				200
+			],
+			[
+				4,
+				1,
+				400
+			],
+			[
+				5,
+				1,
+				1000
+			],
+			[
+				6,
+				1,
+				1000
+			],
+			[
+				7,
+				1,
+				1000
+			],
+			[
+				8,
+				1,
+				2000
+			],
+			[
+				9,
+				1,
+				2000
+			],
+			[
+				10,
+				1,
+				2000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 388,
+		"boolVal": false
+	},
+	"147": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 147,
+		"boolVal": false
+	},
+	"268": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 268,
+		"boolVal": false
+	},
+	"389": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 389,
+		"boolVal": false
+	},
+	"148": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 148,
+		"boolVal": false
+	},
+	"269": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				2,
+				2
+			],
+			[
+				5,
+				3
+			],
+			[
+				6,
+				5
+			]
+		],
+		"floatVal": 0.0,
+		"id": 269,
+		"boolVal": false
+	},
+	"149": {
+		"intVal": 60,
+		"floatVal": 0.0,
+		"id": 149,
+		"boolVal": false
+	},
+	"40": {
+		"intVal": 0,
+		"intArrVal": [
+			1100,
+			1,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 40,
+		"boolVal": false
+	},
+	"41": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				53
+			],
+			[
+				2,
+				53
+			],
+			[
+				3,
+				53
+			],
+			[
+				4,
+				53
+			],
+			[
+				5,
+				53
+			],
+			[
+				6,
+				53
+			],
+			[
+				7,
+				53
+			],
+			[
+				8,
+				53
+			],
+			[
+				9,
+				53
+			],
+			[
+				10,
+				53
+			],
+			[
+				11,
+				53
+			],
+			[
+				12,
+				53
+			],
+			[
+				13,
+				53
+			],
+			[
+				14,
+				53
+			],
+			[
+				15,
+				53
+			],
+			[
+				16,
+				53
+			],
+			[
+				17,
+				53
+			],
+			[
+				18,
+				53
+			],
+			[
+				19,
+				46
+			]
+		],
+		"floatVal": 0.0,
+		"id": 41,
+		"boolVal": false
+	},
+	"42": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 42,
+		"boolVal": false
+	},
+	"43": {
+		"intVal": 86400,
+		"floatVal": 0.0,
+		"id": 43,
+		"boolVal": false
+	},
+	"44": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			5
+		],
+		"floatVal": 0.0,
+		"id": 44,
+		"boolVal": false
+	},
+	"45": {
+		"intVal": 48,
+		"floatVal": 0.0,
+		"id": 45,
+		"boolVal": false
+	},
+	"46": {
+		"intVal": 0,
+		"strVal": "ffffff",
+		"floatVal": 0.0,
+		"id": 46,
+		"boolVal": false
+	},
+	"47": {
+		"intVal": 0,
+		"strVal": "27c763",
+		"floatVal": 0.0,
+		"id": 47,
+		"boolVal": false
+	},
+	"48": {
+		"intVal": 0,
+		"strVal": "2da4f0",
+		"floatVal": 0.0,
+		"id": 48,
+		"boolVal": false
+	},
+	"49": {
+		"intVal": 0,
+		"strVal": "b661e2",
+		"floatVal": 0.0,
+		"id": 49,
+		"boolVal": false
+	},
+	"390": {
+		"intVal": 0,
+		"floatVal": 1.5,
+		"id": 390,
+		"boolVal": false
+	},
+	"270": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1010103
+			],
+			[
+				1010104
+			],
+			[
+				5000000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 270,
+		"boolVal": false
+	},
+	"391": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				10
+			],
+			[
+				2,
+				20
+			],
+			[
+				3,
+				30
+			],
+			[
+				4,
+				45
+			],
+			[
+				5,
+				50
+			],
+			[
+				6,
+				55
+			]
+		],
+		"floatVal": 0.0,
+		"id": 391,
+		"boolVal": false
+	},
+	"150": {
+		"intVal": 8,
+		"floatVal": 0.0,
+		"id": 150,
+		"boolVal": false
+	},
+	"271": {
+		"intVal": 999,
+		"floatVal": 0.0,
+		"id": 271,
+		"boolVal": false
+	},
+	"392": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				1,
+				3
+			],
+			[
+				2,
+				3
+			],
+			[
+				3,
+				3
+			],
+			[
+				4,
+				3
+			],
+			[
+				5,
+				3
+			],
+			[
+				6,
+				3
+			]
+		],
+		"floatVal": 0.0,
+		"id": 392,
+		"boolVal": false
+	},
+	"151": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 151,
+		"boolVal": false
+	},
+	"272": {
+		"intVal": 15,
+		"floatVal": 0.0,
+		"id": 272,
+		"boolVal": false
+	},
+	"393": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 393,
+		"boolVal": false
+	},
+	"152": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 152,
+		"boolVal": false
+	},
+	"273": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				2,
+				2560
+			],
+			[
+				5,
+				685
+			],
+			[
+				1570,
+				3
+			]
+		],
+		"floatVal": 0.0,
+		"id": 273,
+		"boolVal": false
+	},
+	"394": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 394,
+		"boolVal": false
+	},
+	"153": {
+		"intVal": 0,
+		"intArrVal": [
+			10000,
+			12000,
+			15000
+		],
+		"floatVal": 0.0,
+		"id": 153,
+		"boolVal": false
+	},
+	"274": {
+		"intVal": 1010106,
+		"floatVal": 0.0,
+		"id": 274,
+		"boolVal": false
+	},
+	"395": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 395,
+		"boolVal": false
+	},
+	"154": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 154,
+		"boolVal": false
+	},
+	"275": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 275,
+		"boolVal": false
+	},
+	"396": {
+		"intVal": 0,
+		"floatVal": 2.1,
+		"id": 396,
+		"boolVal": false
+	},
+	"155": {
+		"intVal": 12,
+		"floatVal": 0.0,
+		"id": 155,
+		"boolVal": false
+	},
+	"276": {
+		"intVal": 0,
+		"strVal": "LockCamera(Clone)",
+		"floatVal": 0.0,
+		"id": 276,
+		"boolVal": false
+	},
+	"397": {
+		"intVal": 0,
+		"intArrVal": [
+			4,
+			8,
+			12,
+			16,
+			20
+		],
+		"floatVal": 0.0,
+		"id": 397,
+		"boolVal": false
+	},
+	"156": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 156,
+		"boolVal": false
+	},
+	"277": {
+		"intVal": 24,
+		"floatVal": 0.0,
+		"id": 277,
+		"boolVal": false
+	},
+	"398": {
+		"intVal": 1200,
+		"floatVal": 0.0,
+		"id": 398,
+		"boolVal": false
+	},
+	"157": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 157,
+		"boolVal": false
+	},
+	"278": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 278,
+		"boolVal": false
+	},
+	"399": {
+		"intVal": 1500,
+		"floatVal": 0.0,
+		"id": 399,
+		"boolVal": false
+	},
+	"158": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 158,
+		"boolVal": false
+	},
+	"279": {
+		"intVal": 0,
+		"floatVal": 1.2,
+		"id": 279,
+		"boolVal": false
+	},
+	"159": {
+		"intVal": 30,
+		"floatVal": 0.0,
+		"id": 159,
+		"boolVal": false
+	},
+	"50": {
+		"intVal": 0,
+		"strVal": "f58431",
+		"floatVal": 0.0,
+		"id": 50,
+		"boolVal": false
+	},
+	"51": {
+		"intVal": 0,
+		"strVal": "ff4b63",
+		"floatVal": 0.0,
+		"id": 51,
+		"boolVal": false
+	},
+	"52": {
+		"intVal": 0,
+		"strVal": "ff4b63",
+		"floatVal": 0.0,
+		"id": 52,
+		"boolVal": false
+	},
+	"53": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 53,
+		"boolVal": false
+	},
+	"54": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 54,
+		"boolVal": false
+	},
+	"55": {
+		"intVal": 0,
+		"strVal": "a3a3a3",
+		"floatVal": 0.0,
+		"id": 55,
+		"boolVal": false
+	},
+	"56": {
+		"intVal": 0,
+		"strVal": "f61f1f",
+		"floatVal": 0.0,
+		"id": 56,
+		"boolVal": false
+	},
+	"57": {
+		"intVal": 0,
+		"strVal": "554d4d",
+		"floatVal": 0.0,
+		"id": 57,
+		"boolVal": false
+	},
+	"58": {
+		"intVal": 0,
+		"strVal": "27c763",
+		"floatVal": 0.0,
+		"id": 58,
+		"boolVal": false
+	},
+	"59": {
+		"intVal": 0,
+		"strVal": "2da4f0",
+		"floatVal": 0.0,
+		"id": 59,
+		"boolVal": false
+	},
+	"280": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 280,
+		"boolVal": false
+	},
+	"160": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 160,
+		"boolVal": false
+	},
+	"281": {
+		"intVal": 0,
+		"intArrVal": [
+			150,
+			500,
+			1000
+		],
+		"floatVal": 0.0,
+		"id": 281,
+		"boolVal": false
+	},
+	"161": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 161,
+		"boolVal": false
+	},
+	"282": {
+		"intVal": 12,
+		"floatVal": 0.0,
+		"id": 282,
+		"boolVal": false
+	},
+	"162": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 162,
+		"boolVal": false
+	},
+	"283": {
+		"intVal": 0,
+		"intArrVal": [
+			1010501,
+			1010901,
+			1011201
+		],
+		"floatVal": 0.0,
+		"id": 283,
+		"boolVal": false
+	},
+	"163": {
+		"intVal": 14,
+		"floatVal": 0.0,
+		"id": 163,
+		"boolVal": false
+	},
+	"284": {
+		"intVal": 2,
+		"intArrVal": [
+			1260,
+			1261,
+			1262,
+			1263
+		],
+		"floatVal": 0.0,
+		"id": 284,
+		"boolVal": false
+	},
+	"164": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 164,
+		"boolVal": false
+	},
+	"285": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 285,
+		"boolVal": false
+	},
+	"165": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 165,
+		"boolVal": false
+	},
+	"286": {
+		"intVal": 2000,
+		"floatVal": 0.0,
+		"id": 286,
+		"boolVal": false
+	},
+	"166": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 166,
+		"boolVal": false
+	},
+	"287": {
+		"intVal": 2000,
+		"floatVal": 0.0,
+		"id": 287,
+		"boolVal": false
+	},
+	"167": {
+		"intVal": 0,
+		"intArrVal": [
+			7500,
+			14000
+		],
+		"floatVal": 0.0,
+		"id": 167,
+		"boolVal": false
+	},
+	"288": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 288,
+		"boolVal": false
+	},
+	"168": {
+		"intVal": 1150,
+		"floatVal": 0.0,
+		"id": 168,
+		"boolVal": false
+	},
+	"289": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 289,
+		"boolVal": false
+	},
+	"169": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			20
+		],
+		"floatVal": 0.0,
+		"id": 169,
+		"boolVal": false
+	},
+	"60": {
+		"intVal": 0,
+		"strVal": "b661e2",
+		"floatVal": 0.0,
+		"id": 60,
+		"boolVal": false
+	},
+	"61": {
+		"intVal": 0,
+		"strVal": "f58431",
+		"floatVal": 0.0,
+		"id": 61,
+		"boolVal": false
+	},
+	"62": {
+		"intVal": 0,
+		"strVal": "ff4b63",
+		"floatVal": 0.0,
+		"id": 62,
+		"boolVal": false
+	},
+	"63": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 63,
+		"boolVal": false
+	},
+	"64": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 64,
+		"boolVal": false
+	},
+	"65": {
+		"intVal": 15,
+		"floatVal": 0.0,
+		"id": 65,
+		"boolVal": false
+	},
+	"66": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 66,
+		"boolVal": false
+	},
+	"67": {
+		"intVal": 0,
+		"strVal": "17f1f4",
+		"floatVal": 0.0,
+		"id": 67,
+		"boolVal": false
+	},
+	"68": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 68,
+		"boolVal": false
+	},
+	"69": {
+		"intVal": 12,
+		"floatVal": 0.0,
+		"id": 69,
+		"boolVal": false
+	},
+	"290": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 290,
+		"boolVal": false
+	},
+	"170": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 170,
+		"boolVal": false
+	},
+	"291": {
+		"intVal": 1644825151,
+		"floatVal": 0.0,
+		"id": 291,
+		"boolVal": false
+	},
+	"171": {
+		"intVal": 1550,
+		"floatVal": 0.0,
+		"id": 171,
+		"boolVal": false
+	},
+	"292": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 292,
+		"boolVal": false
+	},
+	"172": {
+		"intVal": 17,
+		"floatVal": 0.0,
+		"id": 172,
+		"boolVal": false
+	},
+	"293": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 293,
+		"boolVal": false
+	},
+	"173": {
+		"intVal": 4,
+		"floatVal": 0.0,
+		"id": 173,
+		"boolVal": false
+	},
+	"294": {
+		"intVal": 100,
+		"floatVal": 0.0,
+		"id": 294,
+		"boolVal": false
+	},
+	"174": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 174,
+		"boolVal": false
+	},
+	"295": {
+		"intVal": 24,
+		"floatVal": 0.0,
+		"id": 295,
+		"boolVal": false
+	},
+	"175": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 175,
+		"boolVal": false
+	},
+	"296": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				6071,
+				100000
+			],
+			[
+				6072,
+				100000
+			],
+			[
+				6073,
+				100000
+			],
+			[
+				6074,
+				100000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 296,
+		"boolVal": false
+	},
+	"176": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 176,
+		"boolVal": false
+	},
+	"297": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				6091,
+				100000
+			],
+			[
+				6092,
+				100000
+			],
+			[
+				6093,
+				100000
+			],
+			[
+				6094,
+				100000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 297,
+		"boolVal": false
+	},
+	"177": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 177,
+		"boolVal": false
+	},
+	"298": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				6081,
+				100000
+			],
+			[
+				6082,
+				100000
+			],
+			[
+				6083,
+				100000
+			],
+			[
+				6084,
+				100000
+			]
+		],
+		"floatVal": 0.0,
+		"id": 298,
+		"boolVal": false
+	},
+	"178": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 178,
+		"boolVal": false
+	},
+	"299": {
+		"intVal": 0,
+		"intArrVal": [
+			60561,
+			60562,
+			60563,
+			60564,
+			60565,
+			60566
+		],
+		"floatVal": 0.0,
+		"id": 299,
+		"boolVal": false
+	},
+	"179": {
+		"intVal": 0,
+		"intArrVal": [
+			60,
+			70,
+			80
+		],
+		"floatVal": 0.0,
+		"id": 179,
+		"boolVal": false
+	},
+	"70": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 70,
+		"boolVal": false
+	},
+	"71": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 71,
+		"boolVal": false
+	},
+	"72": {
+		"intVal": 86400,
+		"floatVal": 0.0,
+		"id": 72,
+		"boolVal": false
+	},
+	"73": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 73,
+		"boolVal": false
+	},
+	"74": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				4,
+				120
+			],
+			[
+				2,
+				10000
+			],
+			[
+				5,
+				1000
+			],
+			[
+				1700,
+				1
+			],
+			[
+				7000,
+				1
+			],
+			[
+				3000,
+				20
+			],
+			[
+				1161,
+				50
+			],
+			[
+				110101,
+				1
+			],
+			[
+				110102,
+				1
+			],
+			[
+				110103,
+				1
+			],
+			[
+				110104,
+				1
+			],
+			[
+				74,
+				5
+			]
+		],
+		"floatVal": 0.0,
+		"id": 74,
+		"boolVal": false
+	},
+	"75": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 75,
+		"boolVal": false
+	},
+	"76": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			50
+		],
+		"floatVal": 0.0,
+		"id": 76,
+		"boolVal": false
+	},
+	"77": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			50,
+			1
+		],
+		"floatVal": 0.0,
+		"id": 77,
+		"boolVal": false
+	},
+	"78": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 78,
+		"boolVal": false
+	},
+	"79": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 79,
+		"boolVal": false
+	},
+	"180": {
+		"intVal": 12,
+		"floatVal": 0.0,
+		"id": 180,
+		"boolVal": false
+	},
+	"181": {
+		"intVal": 1010110,
+		"floatVal": 0.0,
+		"id": 181,
+		"boolVal": false
+	},
+	"182": {
+		"intVal": 0,
+		"intArrVal": [
+			100303,
+			100304,
+			100305
+		],
+		"floatVal": 0.0,
+		"id": 182,
+		"boolVal": false
+	},
+	"183": {
+		"intVal": 0,
+		"strVal": "04ac20",
+		"floatVal": 0.0,
+		"id": 183,
+		"boolVal": false
+	},
+	"184": {
+		"intVal": 0,
+		"strVal": "ef0b0b",
+		"floatVal": 0.0,
+		"id": 184,
+		"boolVal": false
+	},
+	"185": {
+		"intVal": 2,
+		"floatVal": 0.0,
+		"id": 185,
+		"boolVal": false
+	},
+	"186": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 186,
+		"boolVal": false
+	},
+	"187": {
+		"intVal": 5,
+		"floatVal": 0.0,
+		"id": 187,
+		"boolVal": false
+	},
+	"188": {
+		"intVal": 0,
+		"strArrVal": [
+			[
+				100000000,
+				1047
+			],
+			[
+				10000,
+				1048
+			]
+		],
+		"floatVal": 0.0,
+		"id": 188,
+		"boolVal": false
+	},
+	"189": {
+		"intVal": 7,
+		"floatVal": 0.0,
+		"id": 189,
+		"boolVal": false
+	},
+	"80": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 80,
+		"boolVal": false
+	},
+	"81": {
+		"intVal": 0,
+		"floatVal": 2.5,
+		"id": 81,
+		"boolVal": false
+	},
+	"82": {
+		"intVal": 0,
+		"intArrVal": [
+			16,
+			30
+		],
+		"floatVal": 0.0,
+		"id": 82,
+		"boolVal": false
+	},
+	"83": {
+		"intVal": 30,
+		"floatVal": 0.0,
+		"id": 83,
+		"boolVal": false
+	},
+	"84": {
+		"intVal": 0,
+		"strVal": "575757",
+		"floatVal": 0.0,
+		"id": 84,
+		"boolVal": false
+	},
+	"85": {
+		"intVal": 0,
+		"strVal": "D1D1D1",
+		"floatVal": 0.0,
+		"id": 85,
+		"boolVal": false
+	},
+	"86": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 86,
+		"boolVal": false
+	},
+	"87": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 87,
+		"boolVal": false
+	},
+	"88": {
+		"intVal": 15000,
+		"floatVal": 0.0,
+		"id": 88,
+		"boolVal": false
+	},
+	"89": {
+		"intVal": 0,
+		"intArrVal": [
+			12000,
+			20
+		],
+		"floatVal": 0.0,
+		"id": 89,
+		"boolVal": false
+	},
+	"190": {
+		"intVal": 0,
+		"intArrVal": [
+			100,
+			200,
+			300,
+			400,
+			500,
+			600
+		],
+		"floatVal": 0.0,
+		"id": 190,
+		"boolVal": false
+	},
+	"191": {
+		"intVal": 50,
+		"floatVal": 0.0,
+		"id": 191,
+		"boolVal": false
+	},
+	"192": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 192,
+		"boolVal": false
+	},
+	"193": {
+		"intVal": 168,
+		"floatVal": 0.0,
+		"id": 193,
+		"boolVal": false
+	},
+	"194": {
+		"intVal": 14,
+		"floatVal": 0.0,
+		"id": 194,
+		"boolVal": false
+	},
+	"195": {
+		"intVal": 200,
+		"floatVal": 0.0,
+		"id": 195,
+		"boolVal": false
+	},
+	"196": {
+		"intVal": 0,
+		"intArrVal": [
+			1,
+			2,
+			4,
+			6,
+			10,
+			24
+		],
+		"floatVal": 0.0,
+		"id": 196,
+		"boolVal": false
+	},
+	"197": {
+		"intVal": 0,
+		"intArrVal": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1010810,
+			1010820,
+			1010910,
+			1010920,
+			1011020,
+			1011040
+		],
+		"floatVal": 0.0,
+		"id": 197,
+		"boolVal": false
+	},
+	"198": {
+		"intVal": 0,
+		"intArrVal": [
+			0,
+			0,
+			100,
+			200,
+			200,
+			300,
+			300,
+			300,
+			500,
+			500,
+			500,
+			500
+		],
+		"floatVal": 0.0,
+		"id": 198,
+		"boolVal": false
+	},
+	"199": {
+		"intVal": 10,
+		"floatVal": 0.0,
+		"id": 199,
+		"boolVal": false
+	},
+	"90": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 90,
+		"boolVal": false
+	},
+	"91": {
+		"intVal": 0,
+		"strVal": "fff600",
+		"floatVal": 0.0,
+		"id": 91,
+		"boolVal": false
+	},
+	"92": {
+		"intVal": 3,
+		"floatVal": 0.0,
+		"id": 92,
+		"boolVal": false
+	},
+	"93": {
+		"intVal": 20,
+		"floatVal": 0.0,
+		"id": 93,
+		"boolVal": false
+	},
+	"94": {
+		"intVal": 0,
+		"strVal": "f88808",
+		"floatVal": 0.0,
+		"id": 94,
+		"boolVal": false
+	},
+	"95": {
+		"intVal": 1,
+		"floatVal": 0.0,
+		"id": 95,
+		"boolVal": false
+	},
+	"98": {
+		"intVal": 0,
+		"floatVal": 0.0,
+		"id": 98,
+		"boolVal": false
+	},
+	"99": {
+		"intVal": 6,
+		"floatVal": 0.0,
+		"id": 99,
+		"boolVal": false
+	}
+}
